@@ -18,7 +18,7 @@
   ## Description
   This project provides the ability for employees to generate a random password based on criteria they’ve selected. It has been built with HTML, CSS, and JavaScript.
   
-  <img src="https://github.com/ccd330/password-generator/blob/main/assets/Screen%20Shot%202022-01-05%20at%202.40.45%20PM.png"" />
+  <img src="https://github.com/ccd330/password-generator/blob/main/assets/Screen%20Shot%202022-01-05%20at%202.40.45%20PM.png" />
 
   ## Installation Instructions
   N/A
